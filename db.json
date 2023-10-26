@@ -1,34 +1,16 @@
+[
 {
-  "animais": [
-    {
-      "id": 1,
-      "nome": "Rex",
-      "foto": "https://tocadobichomaringa.com.br/wp-content/uploads/2022/06/Lindo-Golden-Retriever.jpg",
-      "idade": 5,
-      "dono": "João",
-      "endereco": "Rua das Flores, 123",
-      "caracteristica": "Amigável e brincalhão",
-      "raca": "Golden Retriever"
-    },
-    {
-      "id": 2,
-      "nome": "Luna",
-      "foto": "https://love.doghero.com.br/wp-content/uploads/2016/11/Labrador-6.jpg",
-      "idade": 3,
-      "dono": "Maria",
-      "endereco": "Avenida Principal, 456",
-      "caracteristica": "Calma e dócil",
-      "raca": "Labrador"
-    },
-    {
-      "id": 3,
-      "nome": "Misty",
-      "foto": "https://www.petlove.com.br/images/breeds/193080/profile/original/border_collie-p.jpg",
-      "idade": 2,
-      "dono": "Carlos",
-      "endereco": "Rua da Praça, 789",
-      "caracteristica": "Energética e curiosa",
-      "raca": "Border Collie"
-    }
-  ]
-}
+  "id":"1",
+  "nome":"Helio",
+  "cpf":"123.456.789-12",
+  "idade":"20",
+  "email":"helio@helio.com"
+  },
+  {
+    "id":"2",
+    "nome":"Iuri",
+    "cpf":"987.654.321-89",
+    "idade":"20",
+    "email":"iuri@iuri.com"
+  }
+]
