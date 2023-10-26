@@ -1,4 +1,6 @@
-[
+{
+  "Pessoas":[
+
 {
   "id":"1",
   "nome":"Helio",
@@ -14,3 +16,5 @@
     "email":"iuri@iuri.com"
   }
 ]
+}
+
