@@ -1,7 +1,5 @@
-{
-  "Pessoas":[
-
-{
+[
+  {
   "id":"1",
   "nome":"Helio",
   "cpf":"123.456.789-12",
@@ -16,5 +14,4 @@
     "email":"iuri@iuri.com"
   }
 ]
-}
 
